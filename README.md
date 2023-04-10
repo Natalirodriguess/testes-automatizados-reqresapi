@@ -1,5 +1,6 @@
 # Testes automatizados na API REQRES
 Resumo: casos de testes automatizados da API Reqres, utilizando a ferramenta Cucumber e RestAssured.
+
 ### Tópicos
 [Introdução](https://github.com/Natalirodriguess/testes-automatizados-reqresapi#introdu%C3%A7%C3%A3o) 
 
@@ -12,5 +13,5 @@ A API Reqres, simula uma API RESTful real com endpoints e métodos de fluxos que
 ## Funcionalidades e cenários (método BDD)
 
 Os cenários e casos de testes serão especificados abaixo utilizando o modelo BDD e a  sintaxe Gherkin.
-
 Feature:  Buscar usuário por id  no  endpoint https://reqres.in/api/users/{id}
+
