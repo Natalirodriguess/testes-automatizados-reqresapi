@@ -7,4 +7,5 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/buscar-usuario-por-id.feature")
 public class BuscarUsuarioPorIdRunner {
+
 }
