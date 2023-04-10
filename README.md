@@ -12,3 +12,5 @@ A API Reqres, simula uma API RESTful real com endpoints e métodos de fluxos que
 ## Funcionalidades e cenários (método BDD)
 
 Os cenários e casos de testes serão especificados abaixo utilizando o modelo BDD e a  sintaxe Gherkin.
+
+Feature:  Buscar usuário por id  no  endpoint https://reqres.in/api/users/{id}
