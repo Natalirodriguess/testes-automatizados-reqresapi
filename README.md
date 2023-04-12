@@ -4,7 +4,7 @@ Resumo: casos de testes automatizados da API Reqres, utilizando a ferramenta Cuc
 ## Documentação da API
 [API REQRES](https://reqres.in/api-docs/#/)
 
-### Tópicos
+## Tópicos
 [Introdução](https://github.com/Natalirodriguess/testes-automatizados-reqresapi#introdu%C3%A7%C3%A3o) 
 
 [Funcionalidades e cenários (método BDD)](https://github.com/Natalirodriguess/testes-automatizados-reqresapi#funcionalidades-e-cen%C3%A1rios-m%C3%A9todo-bdd)
