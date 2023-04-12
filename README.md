@@ -38,4 +38,12 @@ Os cenários e casos de testes serão especificados abaixo utilizando o modelo B
     
                 And o campo "support.text" é igual a "To keep ReqRes free, contributions towards server costs 
                 are appreciated!"
+                
+        Scenario: Buscar usuário a partir de um id inválido
+        
+       		    Given que o id informado é 13
+    
+                When eu faço uma requisição do tipo GET para "users/{id}"
+    
+                Then o status code do response é 404
 
