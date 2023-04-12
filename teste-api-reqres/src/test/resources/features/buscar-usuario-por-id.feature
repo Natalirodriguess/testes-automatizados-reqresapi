@@ -1,4 +1,4 @@
- Feature:  Buscar usuário por id  no  endpoint https://reqres.in/api/users/{id}
+ Feature:  Buscar usuário por id no endpoint https://reqres.in/api/users/{id}
 
   Scenario: Buscar usuário a partir de um id valido
     Given que o id informado eh 1

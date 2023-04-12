@@ -10,7 +10,7 @@ import io.restassured.specification.RequestSpecification;
 import static org.hamcrest.Matchers.equalTo;
 
 
-class BuscarUsuarioPorIdSteps {
+public class BuscarUsuarioPorIdSteps {
 
 	String id;
 	Response response;
