@@ -1,6 +1,9 @@
 # Testes automatizados na API REQRES
 Resumo: casos de testes automatizados da API Reqres, utilizando a ferramenta Cucumber e RestAssured.
 
+# Documentação da API
+[API REQRES](https://reqres.in/api-docs/#/)
+
 ### Tópicos
 [Introdução](https://github.com/Natalirodriguess/testes-automatizados-reqresapi#introdu%C3%A7%C3%A3o) 
 
